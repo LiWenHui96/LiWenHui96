@@ -7,8 +7,8 @@
 * 目前维护有 **四** 款 *Flutter Plugin*，**一** 款 *Dart Plugin*。
 * 个人主页 📚 [简书](https://www.jianshu.com/u/b3e89b034b7e)
 
-<img align="" height="140px" src="https://github-readme-stats.vercel.app/api?username=LiWenHui96&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=graywhite&locale=cn"></img>
-<img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiWenHui96&hide_title=true&hide_border=true&layout=compact&theme=graywhite&locale=cn" />
+<img align="" height="140px" src="https://github-readme-stats.vercel.app/api?username=LiWenHui96&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=swift&locale=cn"></img>
+<img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiWenHui96&hide_title=true&hide_border=true&layout=compact&theme=swift&locale=cn" />
 
 ## 插件
 

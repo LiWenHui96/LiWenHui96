@@ -5,7 +5,7 @@
 * 一位全职的 **Flutter** 开发攻城狮🦁。
 * 掌握的编程语言包括但不仅限于 **Dart**、**ArkTs**、**Java**、**Kotlin**、**Swift**、**Vue**。
 * 目前维护有 **五** 款 *Flutter Plugin*，**一** 款 *Dart Plugin*。
-* 个人主页 📚 [简书](https://www.jianshu.com/u/b3e89b034b7e)
+* 个人主页 📚 [掘金](https://juejin.cn/user/3149420620952552/posts)，[简书](https://www.jianshu.com/u/b3e89b034b7e)
 
 <img align="" height="140px" src="https://github-readme-stats.vercel.app/api?username=LiWenHui96&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=swift&locale=cn"></img>
 <img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiWenHui96&hide_title=true&hide_border=true&layout=compact&theme=swift&locale=cn" />

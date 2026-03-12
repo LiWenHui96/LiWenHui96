@@ -41,6 +41,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes"
           else
-            git commit -m "chore: update README cards"
+            git commit -m "Update README cards"
             git push
           fi

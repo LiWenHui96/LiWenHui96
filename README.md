@@ -7,8 +7,10 @@
 * 目前维护有 **五** 款 *Flutter Plugin*，**一** 款 *Dart Plugin*。
 * 个人主页 📚 [掘金](https://juejin.cn/user/3149420620952552/posts)，[简书](https://www.jianshu.com/u/b3e89b034b7e)
 
-<img align="Stats" height="130" src="./profile/stats.svg" />
-<img align="Top Languages" height="130" src="./profile/top-langs.svg" />
+<p>
+  <img align="Stats" height="130" src="./profile/stats.svg" />
+  <img align="Top Languages" height="130" src="./profile/top-langs.svg" />
+<p/>
 
 ## 插件
 
